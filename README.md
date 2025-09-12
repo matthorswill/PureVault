@@ -33,7 +33,8 @@ Notre solution intègre **IA, automatisation comptable, certification numérique
 - Conformité KYC/AML.  
 
 ### 📊 Automatisation Comptable
-- Écritures comptables générées automatiquement.  
+- Écritures comptables générées automatiquement.
+- Comptabilité adaptée aux juridictions de **Dubaï, Rome (Italie), Andorre, France, États-Unis, Anvers (Belgique), Luxembourg et Monaco**.  
 - Export vers QuickBooks, Sage, SAP.  
 - Préparation simplifiée des déclarations fiscales.  
 
@@ -74,7 +75,7 @@ Notre solution intègre **IA, automatisation comptable, certification numérique
    - Dashboard simple  
 
 2. **Phase 2**  
-   - Automatisation comptable  
+   - Automatisation comptable (avec adaptation multi-juridictions)
    - CRM + intégrations API bancaires  
    - IA prédictive  
 
